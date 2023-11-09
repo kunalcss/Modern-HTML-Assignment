@@ -1,0 +1,22 @@
+1. List out the features of HTML5.
+
+Solution-->
+
+HTML5, the latest version of the Hypertext Markup Language, introduced several new features and improvements compared to its predecessors. Some of the key features of HTML5 include:
+
+1. Semantic Elements: HTML5 introduced more semantic elements, such as `<header>`, `<footer>`, `<article>`, `<section>`, and `<nav>`. These elements provide a clearer structure and meaning to web content, making it more accessible and understandable for both developers and browsers.
+
+2. Form Input Enhancements: HTML5 introduced new input types, attributes, and APIs to create more advanced and user-friendly forms. Features like date pickers, email validation, number input, and placeholder text have made form creation and validation simpler.
+
+3. Offline Application Cache: HTML5 enables web applications to work offline by using the Application Cache feature. Developers can specify which files should be cached, allowing the application to load and function without an internet connection.
+
+4. Local Storage and Session Storage: HTML5 introduced APIs for local storage and session storage. These provide methods for storing data on the client-side, enabling web applications to store data persistently or for a single session without using cookies.
+
+5. Geolocation API: HTML5's Geolocation API enables web applications to access a user's geographical location. This can be used for location-based services, mapping, or providing location-specific content.
+
+6. Web Workers: Web Workers allow developers to run scripts in the background, separate from the main page, enhancing performance by enabling multitasking and parallel processing.
+
+7. Drag and Drop API: HTML5 introduced a built-in drag-and-drop API, simplifying the process of making elements draggable and droppable within web applications.
+
+8. Accessibility Improvements: HTML5 introduced several features and elements that improve web accessibility, making it easier to create content that's more accessible to people with disabilities.
+
